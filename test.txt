@@ -1,0 +1,6 @@
+Title: Test Post  
+Date: 2020-01-01    
+Category: Test
+Tags: pelican, publishing    
+Author: John Doe 
+Summary: Short summary for the test post.
